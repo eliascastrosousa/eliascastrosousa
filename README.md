@@ -1,15 +1,23 @@
-- 👋 Hi, I’m @eliascastrosousa, i have 25 years old. I like play 🎮 games, play 🎸 my guitar and travel for new places.
-- 👀 I’m interested in Data Analyst 📊📈, Business Intelligence and development whit JavaScript, Python and Web.
-- 🌱 I’m currently learning Web Development, JavaScrypt, english and computer architecture in my University.
-  ...
-- 💞️ I’m looking collaborate on projects whit Python, Business Intelligence and Web.
-- 📫 How to reach me eliascastrosousa@gmail.com.
--  Follow me in my networks:
-My profile in [Instagram](https://www.instagram.com/eliascastrosousa/), 
-[Twitter](https://twitter.com/envalidado), and
-[Linkedin](https://www.linkedin.com/in/eliascastrosousa/)
-
-<!---
-eliascastrosousa/eliascastrosousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hello Folks, I'm Elias Castro, Welcome to my Github.
+<div align="center">
+  <a href="https://github.com/eliascastrosousa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliascastrosousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliascastrosousa&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
+ ### My Main knowledges
+<div style="display: inline_block">
+ 
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+</div>
+  
+ ### Currently I'm in the second semester in Systems Analysis and Development in IFSP.
+  
+ ### My Contact
+  
+<div class="tenor-gif-embed" data-postid="4828152" data-share-method="host" data-aspect-ratio="1.72376" data-width="100%"><a href="https://tenor.com/view/worst-dammit-dang-it-fail-michael-scott-gif-4828152">Saying Something Stupid In Front Of Your Crush GIF</a>from <a href="https://tenor.com/search/worst-gifs">Worst GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
