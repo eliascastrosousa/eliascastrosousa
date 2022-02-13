@@ -16,7 +16,7 @@
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
 </div>
   
- ### Currently I'm in the second semester in Systems Analysis and Development in IFSP.
+ ### Currently I'm in the third semester in Systems Analysis and Development in IFSP.
   
  ### My Contacts
   
