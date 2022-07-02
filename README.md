@@ -1,4 +1,4 @@
-## Hello Folks, I'm Elias Castro, Welcome to my Github.
+## Hello There, I'm Elias Castro, Welcome to my Github.
 <div align="center">
   <a href="https://github.com/eliascastrosousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliascastrosousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
