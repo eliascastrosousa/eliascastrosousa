@@ -1,4 +1,4 @@
-## Hello There, I'm Elias Castro, Welcome to my Github.
+## Olá Pessoal, me chamo Elias Castro e este é meu Github!
 <div align="center">
   <a href="https://github.com/eliascastrosousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliascastrosousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -6,21 +6,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliascastrosousa&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- ### My Main knowledges
+ ## Principais Linguagens que eu domino: 
 <div style="display: inline_block">
  
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  
 </div>
   
- ### Currently I'm in the third semester in Systems Analysis and Development in IFSP.
+ ## Perfil Profissional
   
- ### My Contacts
+ ### Atuo a quase dois anos no regime de estagio, como Analista de Sistemas atendendo as trilhas de Almoxarifado, Tributos e tesouraria. e atualmente estou no 5° Semestre (de 6) da graduação em Analise e Desenvolvimento de Sistemas pelo IFSP Campus Guarulhos.
+  
+ ## Estes são os meus contatos
   
 <div> 
   <a href="https://api.whatsapp.com/send?phone=5511984370074" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -33,4 +32,3 @@
 </div>
 <hr>
   
-### When you awake inside... ♫♪♫
