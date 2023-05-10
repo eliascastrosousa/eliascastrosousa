@@ -19,7 +19,7 @@
   
  ## Perfil Profissional
   
- ### Analista de Sistemas Intern, atendo as trilhas de Almoxarifado, Tributos e BI. atualmente estou no 5° Semestre (de 6) da graduação em Analise e Desenvolvimento de Sistemas pelo IFSP Campus Guarulhos.
+ ### Estagiei como analista de Sistemas, atendendo as trilhas de Almoxarifado, Tributos e BI. atualmente estou no 5° Semestre (de 6) da graduação em Analise e Desenvolvimento de Sistemas pelo IFSP Campus Guarulhos.
   
  ## Estes são os meus contatos
   
