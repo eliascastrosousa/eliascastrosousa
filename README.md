@@ -9,18 +9,16 @@
  ## Linguagens que estou em constante desenvolvimento: 
 <div style="display: inline_block">
  
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
   
   
 </div>
   
  ## Perfil Profissional
-  
- ### Estagiei como analista de Sistemas, atendendo as trilhas de Almoxarifado, Tributos e BI. atualmente estou no 5° Semestre (de 6) da graduação em Analise e Desenvolvimento de Sistemas pelo IFSP Campus Guarulhos.
-  
+  ### Estagiei como analista de Sistemas, atendendo as trilhas de Almoxarifado, Tributos e BI. atualmente estou no 5° Semestre (de 6) da graduação em Analise e Desenvolvimento de Sistemas pelo IFSP Campus Guarulhos.
+
  ## Estes são os meus contatos
   
 <div> 
@@ -32,4 +30,6 @@
  
 </div>
 <hr>
+
+## Aqui embaixo, deixo separado meus principais projetos focados em Desenvolvimento Back-end. com Python e Django
   
