@@ -12,7 +12,6 @@
  
 
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +24,7 @@
  ## Perfil Profissional
   ### Estagiei como analista de Sistemas, atendendo as trilhas de Almoxarifado, Tributos e BI. 
   ### Meu foco é o desenvolvimento de soluções back end com Python e Django. 
-  ### Atualmente estou no 5° Semestre (de 6) da graduação em Analise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo.
+  ### Atualmente estou no 6° Semestre (de 6) da graduação em Analise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo.
 
  ## Estes são os meus contatos
   
