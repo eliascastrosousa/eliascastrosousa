@@ -6,11 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliascastrosousa&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- ## Linguagens que estou em constante desenvolvimento: 
+ ## Desenvolvedor formado em ADS pelo Instituto Federal de São Paulo, e utilizo a stack Tecnologica *Python* & *Django* + *Angular JS* + *Postgres/MySQL*
 <div style="display: inline_block">
-
- 
-
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
