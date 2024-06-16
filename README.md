@@ -8,26 +8,29 @@
 </div>
 
 ## Sobre mim
-
-Formado em Análise e desenvolvimento de sistemas pelo Instituto Federal de São Paulo, sou um profissional de 27 anos, tendo mais de 10 anos de experiencia com o mercado de tecnologia e atualmente especializado em desenvolvimento de sistemas, com
-conhecimento prático na utilização da stack tecnológica Python 3 (Django) + Angular JS para desenvolvimento web tendo realizado alguns projetos acadêmicos e pessoais. Possuo conhecimento em metodologias ágeis e na documentação de aprimoramentos em sistemas tendo realizado as rotinas durante meu período de estágio como analista de sistemas. Tenho facilidade em aprender, colaborar em equipe e um sólido senso analítico. Estou em busca de uma oportunidade na área de desenvolvimento de sistemas, onde pretendo aplicar o conhecimento adquirido ao longo da minha formação acadêmica e experiência profissional para contribuir significativamente para os projetos da empresa.
- 
-## About me
-
-Graduated in Systems Analysis and Development from the Federal Institute of São Paulo Paulo, I am 27 years old and professional specialized in systems development, with practical knowledge in using the Python 3 (Django) + Angular JS technology stack for web development having carried out some academic and personal. I have knowledge in agile methodologies and documentation of improvements in systems having carried out the routines during my period of internship as a systems analyst. I find it easy to learn, collaborate team and a solid analytical sense. I am looking for an opportunity in the field of systems development, where I intend to apply the knowledge acquired to throughout my academic training and professional experience to contribute significantly for the company's projects.
-
 ## Tecnologias | Technologies
-
+### Front-end
 <div style="display: inline_block">
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" height="50" width="50" src="https://mwop.net/images/tailwindcss.svg" />
 </div>
-  
+
+### Back-End
+<div style="display: inline_block">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</div>
+
+### DevOps
+<div style="display: inline_block">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazon/aws-original.svg">
+</div>
 
  ## Estes são os meus contatos | My Contacts
   
