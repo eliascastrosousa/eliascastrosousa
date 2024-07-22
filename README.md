@@ -1,6 +1,12 @@
+
+ 
 ## Olá a todos, me chamo Elias Castro e este é meu Github!
 ### Hi Everyone, my name is Elias Castro and this is my Github!
+
+
 <div align="center">
+  <img height="300" src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif"/>
+  <br>
   <a href="https://github.com/eliascastrosousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliascastrosousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
