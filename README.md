@@ -15,7 +15,8 @@
 
 ## Sobre mim
 ## Tecnologias | Technologies
-### Front-end
+
+
 <div style="display: inline_block">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
@@ -23,19 +24,14 @@
   <img align="center" height="50" width="50" src="https://mwop.net/images/tailwindcss.svg" />
 </div>
 
-### Back-End
+### Back-End & Infra
 <div style="display: inline_block">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div>
-
-### DevOps
-<div style="display: inline_block">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazon/aws-original.svg">
 </div>
 
  ## Estes são os meus contatos | My Contacts
