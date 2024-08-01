@@ -3,8 +3,21 @@
   <a href="https://api.whatsapp.com/send?phone=5511984370074" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:eliascastrosousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eliascastrosousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <!-- ![Snake animation](https://github.com/eliascastrosousa/eliascastrosousa/blob/output/github-contribution-grid-snake.svg) */ -->
 </div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## Sobre mim | About me
 
@@ -31,8 +44,6 @@ Olá, meu nome é Elias Castro. Tenho 28 anos e sou apaixonado por tecnologia. t
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
@@ -49,8 +60,6 @@ Olá, meu nome é Elias Castro. Tenho 28 anos e sou apaixonado por tecnologia. t
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
@@ -63,6 +72,8 @@ Olá, meu nome é Elias Castro. Tenho 28 anos e sou apaixonado por tecnologia. t
 </div>
 
 </td></tr></table>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eliascastrosousa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
   
